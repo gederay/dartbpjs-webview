@@ -27,6 +27,7 @@
 
                         <div class="pb-6 border-b">
                             <h2 class="text-md my-3 font-semibold text-gray-400">Tujuan</h2>
+
                             <div class="flex items-center pb-2">
                                 <img src="../assets/img/hospital.png" alt="location" class="h-5" />
                                 <p class="ml-2 text-md font-bold text-gray-600">patientName</p>
